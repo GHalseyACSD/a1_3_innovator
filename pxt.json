@@ -1,5 +1,6 @@
 {
     "name": "A1_3_Innovator",
+    "version": "0.0.1",
     "description": "Connection test program",
     "dependencies": {
         "core": "*",
